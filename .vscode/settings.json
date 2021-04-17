@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "nixEnvSelector.suggestion": false,
+  "nixEnvSelector.nixFile": "${workspaceRoot}/default.nix",
+  "files.watcherExclude": {
+    "**/target": true
+  }
+}
